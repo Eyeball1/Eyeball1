@@ -13,26 +13,26 @@ const log = document.getElementById('log');
 document.addEventListener('keypress', logKey);
 
 var quests1 = [
-  "a) The sky is blue.",
-  "b) The sky is light green.",
-  "c) The sky is orange.",
-  "d) The sky is purple.",
-  "What color is the sky generally",
-  "a) 7",
-  "b) 77",
-  "c) 11",
-  "d) -7",
-  "What is 7 times 1.",
-  "a) A war documentary.",
-  "b) A miniature wargame.",
-  "c) A futurisitc weapon.",
+  "a) None of the above",
+  "b) A mathematical Function",
+  "c) Another word for varible",
+  "d) A log",
+  "What is a string",
+  "a) The first object from the array",
+  "b) An error",
+  "c) The last object from the array",
+  "d) The color blue",
+  "If I logged the [0] from an array I would get",
+  "a) A type of string",
+  "b) A mathematical function",
+  "c) Any function with numbers",
   "d) A SciFi TV show.",
-  "What is Warhammer 40K",
-  "a) Fish.",
-  "b) Lizards.",
-  "c) Mammals.",
-  "d) Dinosaurs.",
-  "What are birds most closely related to?"
+  "What is an alogorithim",
+  "a) tabs forward a line of code",
+  "b) neither A or C",
+  "c) autofinishes a word to whatever is closest to it",
+  "d) A and C",
+  "What does tab do in VSC"
 ];
 
   // Compare answers
